@@ -1,0 +1,12 @@
+absl-py==2.1.0
+attrs==23.2.0
+cffi==1.16.0
+distlib==0.3.8
+easyocr==1.7.1
+filelock==3.13.1
+mediapipe==0.10.9
+opencv-contrib-python==4.9.0.80
+opencv-python-headless==4.9.0.80
+platformdirs==4.1.0
+sounddevice==0.4.6
+virtualenv==20.25.0
